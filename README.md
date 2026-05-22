@@ -1,16 +1,20 @@
-## Hi there 👋
+# Artem Tysiatskii
 
-<!--
-**TemaTys/TemaTys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher and software developer based in Kaliningrad, Russia.
 
-Here are some ideas to get you started:
+I work at the intersection of research, software engineering, and applied analytics. My interests include gravitational rhythms, chronobiology, psychology, consciousness-related states, neurophysiology, human behavior, somatic health, and reproducible data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Python research pipelines and scientific automation
+- Time-series analysis and cross-city statistical modeling
+- Web development and analytical tools
+- Android application development
+- Practical LLM integration and AI-assisted workflows
+
+## Current research
+Author of the **Seleno-Gravitational Rhythm (SGR)** project — a cross-city analytical framework studying impulsive lunar tidal waves as potential modulators of human consciousness, behavior, and somatic health.
+
+## Links
+- ORCID: https://orcid.org/0009-0006-1974-7894
+- Main repository: https://github.com/TemaTys/seleno-gravitational-rhythm
+- Email: artem.tysiatskii@gmail.com
