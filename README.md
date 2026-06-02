@@ -1,18 +1,19 @@
 # Artem Tysiatskii
 
-I build reproducible analytical pipelines, data workflows, and research software at the intersection of data engineering, neurophysiology, chronobiology, and human behavior.
+I am an independent researcher and software developer working at the intersection of data analysis, research software, neurophysiology, chronobiology, psychology, and human behavior.
+
+I build reproducible analytical pipelines, automated data workflows, and AI-assisted tools for interdisciplinary research and practical applications, including web and mobile projects.
 
 ## Focus
-• Data engineering & automated ETL pipelines (Python, SQL)
-• Time-series analysis and statistical modeling
-• Practical AI/LLM integration for research and automation
-• Interdisciplinary analytics (psychophysiology, behavior)
+- Research software and analytical systems
+- Data analysis, time-series analysis, and statistical modeling
+- Automated data workflows and AI/LLM integration
+- Interdisciplinary research in neurophysiology, chronobiology, psychology, and behavior
 
-## Key Project
-**[Seleno-Gravitational Rhythm (SGR)](https://github.com/TemaTys/seleno-gravitational-rhythm)**
-An open Python pipeline and cross-city meta-analysis framework processing ~106 million records to study impulsive lunar tidal-wave patterns in public behavioral and medical data.
+## Project
+- [Seleno-Gravitational Rhythm (SGR)](https://github.com/TemaTys/seleno-gravitational-rhythm) — open Python pipeline and cross-city meta-analysis framework based on 106+ million public records
 
 ## Links
-• [ORCID](https://orcid.org/0009-0006-1974-7894)
-• [Email](mailto:artem.tysiatskii@gmail.com)
-• [Telegram](https://t.me/TemaTys)
+- ORCID: https://orcid.org/0009-0006-1974-7894
+- Email: artem.tysiatskii@gmail.com
+- Telegram: https://t.me/TemaTys
