@@ -17,3 +17,4 @@ I build reproducible analytical pipelines, automated data workflows, and AI-assi
 - ORCID: https://orcid.org/0009-0006-1974-7894
 - Email: artem.tysiatskii@gmail.com
 - Telegram: https://t.me/TemaTys
+- Website: https://tysiatskii.com
